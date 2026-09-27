@@ -354,6 +354,7 @@ uint8_t vehicle_passed(void)
 }
 
 
+main(){
 
 int main(void)
 {
